@@ -32,18 +32,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="35"/>
   
 </div>
-
-##
-
-<br>
-<br>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bianca-oura-a77440238/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:biancaoura@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-
