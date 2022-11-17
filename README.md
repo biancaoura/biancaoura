@@ -42,7 +42,7 @@
 
 [HTML5.io]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white
 [CSS3.io]: https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white
-[JavaScript.io]: https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+[JavaScript.io]: https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black
 [React.io]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black
 [React-url]: https://reactjs.org
 [Redux.io]: https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white
