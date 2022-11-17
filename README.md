@@ -24,16 +24,48 @@
 
 <div id="badges" align="center">
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="35"/>
-  <img src="https://testing-library.com/img/octopus-64x64.png" alt="RTL logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="35"/>
+![HTML5][HTML5.io]
+![CSS3][CSS3.io]
+![JavaScript][JavaScript.io]
+[![React][React.io]][React-url]
+[![Redux][Redux.io]][Redux-url]
+[![NodeJS][NodeJS.io]][NodeJS-url]
+[![Docker][Docker.io]][Docker-url]
+[![Jest][Jest.io]][Jest-url]
+[![MySQL][MySQL.io]][MySQL-url]
+[![Git][Git.io]][Git-url]
+[![Express][Express.io]][Express-url]
+[![Mocha][Mocha.io]][Mocha-url]
+[![Chai][Chai.io]][Chai-url]
   
 </div>
+
+[HTML5.io]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white
+[CSS3.io]: https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white
+[JavaScript.io]: https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+[React.io]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black
+[React-url]: https://reactjs.org
+[Redux.io]: https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white
+[Redux-url]: https://redux.js.org
+[NodeJS.io]: https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white
+[NodeJS-url]: https://nodejs.org/en/
+[Docker.io]: https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com
+[Jest.io]: https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=white
+[Jest-url]: https://jestjs.io
+[MySQL.io]: https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com
+[Git.io]: https://img.shields.io/badge/git-F05032?logo=git&logoColor=white
+[Git-url]: https://git-scm.com
+[Express.io]: https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white
+[Express-url]: https://expressjs.com
+[Mocha.io]: https://img.shields.io/badge/mocha-8D6748?style=flat-square&logo=mocha&logoColor=white
+[Mocha-url]: https://mochajs.org
+[Chai.io]: https://img.shields.io/badge/chai-A30701?style=flat-square&logo=chai&logoColor=white
+[Chai-url]: https://www.chaijs.com
+[NodeJS.io]: https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white
+[NodeJS-url]: https://nodejs.org/en/
+[MySQL.io]: https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com
+[Docker.io]: https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com
