@@ -33,6 +33,7 @@
 [![Docker][Docker.io]][Docker-url]
 [![Jest][Jest.io]][Jest-url]
 [![MySQL][MySQL.io]][MySQL-url]
+[![Sequelize][Sequelize.io]][Sequelize-url]
 [![Git][Git.io]][Git-url]
 [![Express][Express.io]][Express-url]
 [![Mocha][Mocha.io]][Mocha-url]
@@ -55,6 +56,8 @@
 [Jest-url]: https://jestjs.io
 [MySQL.io]: https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com
+[Sequelize.io]: https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&logoColor=white
+[Sequelize-url]: https://sequelize.org
 [Git.io]: https://img.shields.io/badge/git-F05032?logo=git&logoColor=white
 [Git-url]: https://git-scm.com
 [Express.io]: https://img.shields.io/badge/express-000000?logo=express&logoColor=white
