@@ -30,6 +30,7 @@
 [![React][React.io]][React-url]
 [![Redux][Redux.io]][Redux-url]
 [![NodeJS][NodeJS.io]][NodeJS-url]
+[![JWT][JWT.io]][JWT-url]
 [![Docker][Docker.io]][Docker-url]
 [![Jest][Jest.io]][Jest-url]
 [![MySQL][MySQL.io]][MySQL-url]
@@ -50,6 +51,8 @@
 [Redux-url]: https://redux.js.org
 [NodeJS.io]: https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white
 [NodeJS-url]: https://nodejs.org/en/
+[JWT.io]: https://img.shields.io/badge/jwt-000000?logo=jsonwebtokens&logoColor=white
+[JWT-url]: https://jwt.io
 [Docker.io]: https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com
 [Jest.io]: https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=white
