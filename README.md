@@ -27,11 +27,13 @@
 ![HTML5][HTML5.io]
 ![CSS3][CSS3.io]
 ![JavaScript][JavaScript.io]
+[![TypeScript][TypeScript.io]][TypeScript-url]
 [![React][React.io]][React-url]
 [![Redux][Redux.io]][Redux-url]
 [![NodeJS][NodeJS.io]][NodeJS-url]
 [![JWT][JWT.io]][JWT-url]
 [![Docker][Docker.io]][Docker-url]
+[![Railway][Railway.io]][Railway-url]
 [![Jest][Jest.io]][Jest-url]
 [![MySQL][MySQL.io]][MySQL-url]
 [![Sequelize][Sequelize.io]][Sequelize-url]
@@ -45,6 +47,8 @@
 [HTML5.io]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white
 [CSS3.io]: https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white
 [JavaScript.io]: https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black
+[TypeScript.io]: https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org
 [React.io]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black
 [React-url]: https://reactjs.org
 [Redux.io]: https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white
@@ -55,6 +59,8 @@
 [JWT-url]: https://jwt.io
 [Docker.io]: https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com
+[Railway.io]: https://img.shields.io/badge/railway-000000?logo=railway&logoColor=white
+[Railway-url]: https://railway.app
 [Jest.io]: https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=white
 [Jest-url]: https://jestjs.io
 [MySQL.io]: https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white
