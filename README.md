@@ -34,13 +34,14 @@
 [![JWT][JWT.io]][JWT-url]
 [![Docker][Docker.io]][Docker-url]
 [![Railway][Railway.io]][Railway-url]
-[![Jest][Jest.io]][Jest-url]
 [![MySQL][MySQL.io]][MySQL-url]
 [![Sequelize][Sequelize.io]][Sequelize-url]
 [![Git][Git.io]][Git-url]
 [![Express][Express.io]][Express-url]
+[![Jest][Jest.io]][Jest-url]
 [![Mocha][Mocha.io]][Mocha-url]
 [![Chai][Chai.io]][Chai-url]
+[![Puppeteer][Puppeteer.io]][Puppeteer-url]
   
 </div>
 
@@ -75,3 +76,5 @@
 [Mocha-url]: https://mochajs.org
 [Chai.io]: https://img.shields.io/badge/chai-A30701?logo=chai&logoColor=white
 [Chai-url]: https://www.chaijs.com
+[Puppeteer.io]: https://img.shields.io/badge/puppeteer-E34F26?logo=puppeteer&logoColor=white
+[Puppeteer-url]: https://pptr.dev
