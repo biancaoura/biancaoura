@@ -24,19 +24,21 @@
 
 <div id="badges" align="center">
 
-![HTML5][HTML5.io]
-![CSS3][CSS3.io]
 ![JavaScript][JavaScript.io]
 [![TypeScript][TypeScript.io]][TypeScript-url]
+![HTML5][HTML5.io]
+![CSS3][CSS3.io]
 [![React][React.io]][React-url]
 [![Redux][Redux.io]][Redux-url]
 [![NodeJS][NodeJS.io]][NodeJS-url]
 [![JWT][JWT.io]][JWT-url]
 [![Docker][Docker.io]][Docker-url]
 [![Railway][Railway.io]][Railway-url]
+  
 [![MySQL][MySQL.io]][MySQL-url]
 [![MongoDB][MongoDB.io]][MongoDB-url]
 [![Sequelize][Sequelize.io]][Sequelize-url]
+[![Mongoose][Mongoose.io]][Mongoose-url]
 [![Git][Git.io]][Git-url]
 [![Express][Express.io]][Express-url]
 [![Jest][Jest.io]][Jest-url]
@@ -71,6 +73,8 @@
 [MongoDB-url]: https://www.mongodb.com
 [Sequelize.io]: https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&logoColor=white
 [Sequelize-url]: https://sequelize.org
+[Mongoose.io]: https://img.shields.io/badge/mongoose-8D6748?logo=mongoose&logoColor=white
+[Mongoose-url]: https://mongoosejs.com
 [Git.io]: https://img.shields.io/badge/git-F05032?logo=git&logoColor=white
 [Git-url]: https://git-scm.com
 [Express.io]: https://img.shields.io/badge/express-000000?logo=express&logoColor=white
