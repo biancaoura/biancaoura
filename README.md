@@ -26,6 +26,7 @@
 
 ![JavaScript][JavaScript.io]
 [![TypeScript][TypeScript.io]][TypeScript-url]
+[![Python][Python.io]][Python-url]
 ![HTML5][HTML5.io]
 ![CSS3][CSS3.io]
 [![React][React.io]][React-url]
@@ -53,6 +54,8 @@
 [JavaScript.io]: https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black
 [TypeScript.io]: https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org
+[Python.io]: https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white
+[Python-url]: [https://www.typescriptlang.org](https://www.python.org)
 [React.io]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black
 [React-url]: https://reactjs.org
 [Redux.io]: https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white
