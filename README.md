@@ -37,6 +37,7 @@
 [![Railway][Railway.io]][Railway-url]
   
 [![MySQL][MySQL.io]][MySQL-url]
+[![PostgreSQL][PostgreSQL.io]][MySQL-url]
 [![MongoDB][MongoDB.io]][MongoDB-url]
 [![Sequelize][Sequelize.io]][Sequelize-url]
 [![Mongoose][Mongoose.io]][Mongoose-url]
@@ -72,6 +73,8 @@
 [Jest-url]: https://jestjs.io
 [MySQL.io]: https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com
+[PostgreSQL.io]: https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org
 [MongoDB.io]: https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com
 [Sequelize.io]: https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&logoColor=white
