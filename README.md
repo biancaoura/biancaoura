@@ -11,14 +11,6 @@
 
 <br>
 
-<div id="stats" align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancaoura&show_icons=true&border_color=FFF&bg_color=0D1117&theme=tokyonight)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaoura&layout=compact&border_color=FFF&bg_color=0D1117&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <br>
 <br>
 
